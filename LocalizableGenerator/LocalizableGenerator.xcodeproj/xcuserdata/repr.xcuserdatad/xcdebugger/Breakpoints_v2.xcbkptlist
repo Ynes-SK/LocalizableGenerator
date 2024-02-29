@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C359AE4-41DE-4759-B7F1-6646A0E296FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "104DD4C6-414C-451D-A424-BF1F9BDC6E44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizableGenerator/Generator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "readXLSX(filepath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF49DE48-68FE-445D-BBD9-CB40988E5593"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizableGenerator/Generator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "readXLSX(filepath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF49DE48-68FE-445D-BBD9-CB40988E5593 - b560573c31eb11b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizableGenerator.Generator.readXLSX(filepath: Swift.String) -&gt; ()"
+                  moduleName = "LocalizableGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/repr/Desktop/%20projects/LocalizableGenerator/LocalizableGenerator/Generator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "899">
+               </Location>
+               <Location
+                  uuid = "CF49DE48-68FE-445D-BBD9-CB40988E5593 - b560573c31eb11b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizableGenerator.Generator.readXLSX(filepath: Swift.String) -&gt; ()"
+                  moduleName = "LocalizableGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/repr/Desktop/%20projects/LocalizableGenerator/LocalizableGenerator/Generator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F84DBE25-C355-4565-BDB5-D54A468418A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizableGenerator/Generator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "readXLSX(filepath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0D73645-2FFD-4DED-AAB6-F00DC48FDEED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocalizableGenerator/Generator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "readXLSX(filepath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0D73645-2FFD-4DED-AAB6-F00DC48FDEED - b560573c31eb1191"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizableGenerator.Generator.readXLSX(filepath: Swift.String) -&gt; ()"
+                  moduleName = "LocalizableGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/repr/Desktop/%20projects/LocalizableGenerator/LocalizableGenerator/Generator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1385">
+               </Location>
+               <Location
+                  uuid = "C0D73645-2FFD-4DED-AAB6-F00DC48FDEED - b560573c31eb1191"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LocalizableGenerator.Generator.readXLSX(filepath: Swift.String) -&gt; ()"
+                  moduleName = "LocalizableGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/repr/Desktop/%20projects/LocalizableGenerator/LocalizableGenerator/Generator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "2354">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
